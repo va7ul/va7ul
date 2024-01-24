@@ -24,9 +24,9 @@ Here are some ideas to get you started:
     <th>Frontend</th>
     <th>Backend and Database</th>
     <th>Others</th>
-  </tr><tr><td valign="top" width="33%">
+</tr>
 
-### Frontend
+<tr><td valign="top" width="33%">
 
 <div align="center">  
 <!-- <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -40,8 +40,6 @@ Here are some ideas to get you started:
 
 </td><td valign="top" width="33%">
 
-### Backend and Database
-
 <div align="center">  
 <!-- <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
@@ -51,8 +49,6 @@ Here are some ideas to get you started:
 </div>
 
 </td><td valign="top" width="33%">
-
-### Others
 
 <div align="center">  
 <!-- <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
