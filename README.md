@@ -1,7 +1,8 @@
 ### Hi there! 👋
 
-### Studying  
-- 🌱 I’m currently learning (https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)  
+### Studying
+
+- 🌱 I’m currently learning [![My Skills](https://skillicons.dev/icons?i=ts,nextjs,tailwind,mysql,wordpress)](https://skillicons.dev)
 
 <br/>
 
