@@ -2,7 +2,14 @@
 
 ### Studying
 
-- 🌱 I’m currently learning <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,mysql,wordpress" height="20"/></a>
+- 🧠 I’m currently learning <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,mysql,wordpress" height="25"/></a>
+<!-- - 🌍 -->
+<!-- - 👨‍💻 -->
+<!-- - 🖥️ See my portfolio at [vasyl.podvirnyi@gmail.com](http://vasyl.podvirnyi@gmail.com) -->
+<!-- - ✉️ You can contact me at [vasyl.podvirnyi@gmail.com](mailto:vasyl.podvirnyi@gmail.com) -->
+<!-- - 🚀 I'm currently working on [vasyl.podvirnyi@gmail.com](http://vasyl.podvirnyi@gmail.com) -->
+<!-- - 🤝 -->
+<!-- - ⚡ -->
 
 <br/>
 
