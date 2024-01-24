@@ -2,8 +2,7 @@
 
 ### Studying
 
-- 🌱 I’m currently learning <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,mysql,wordpress" height="30"/></a>  
-<!-- [![My Skills](https://skillicons.dev/icons?i=ts,nextjs,tailwind,mysql,wordpress)](https://skillicons.dev) -->
+- 🌱 I’m currently learning <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,mysql,wordpress" height="20"/></a>
 
 <br/>
 
