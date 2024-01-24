@@ -37,10 +37,10 @@
 ## STATISTICS
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=va7ul&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=va7ul&theme=soft-green&show_icons=true&hide_border=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=va7ul&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=295" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=va7ul&theme=soft-green&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=295" />
 </a>
 
 <div align="center">
