@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 </td><td valign="top" width="33%">
 
 <div align="center">  
-<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,postman" height="50"/></a>
-<a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36"alt="Render" /></a>  
+<a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="40" height="40"alt="Render" /></a>  
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs,mongodb,express" height="50"/></a>
 </div>
 
 </td><td valign="top" width="33%">
