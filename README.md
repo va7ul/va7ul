@@ -2,7 +2,7 @@
 
 <br/>
 
-## My Skill Set
+## Technology Stack
 
 <table>
 <tr>
@@ -34,6 +34,12 @@
 
 <br/>
 
+## GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=va7ul&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
 ## STATISTICS
 
 <div align="center">
@@ -49,9 +55,3 @@
 </a>
 
 </div>
-
-<br/>
-
-## GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=va7ul)](https://github.com/ryo-ma/github-profile-trophy)
