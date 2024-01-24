@@ -29,21 +29,21 @@ Here are some ideas to get you started:
 <tr><td valign="top" width="33%">
 
 <div align="center">  
-<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=html,css,js,react,redux" /></a>
-<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=styledcomponents,materialui,webpack,vite" height="10" /></a> 
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=html,css,js,react,redux" height="50" /></a>
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=styledcomponents,materialui,webpack,vite" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
 
 <div align="center">  
-<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,postman"/></a>
-<a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" /></a>  
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,postman" height="50"/></a>
+<a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="50" height="50"alt="Render" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
 
 <div align="center">  
-<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=figma,vscode,github,git,bash" /></a>  
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=figma,vscode,github,git,bash" height="50"/></a>  
 </div>
 
 </td></tr></table>
