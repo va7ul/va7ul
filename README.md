@@ -37,6 +37,7 @@
 ## STATISTICS
 
 <div align="center">
+
 ![va7ul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=va7ul&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![va7ul's Stats](https://github-readme-stats.vercel.app/api?username=va7ul&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
