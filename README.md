@@ -6,9 +6,9 @@
 
 <table>
 <tr>
-    <th>Frontend</th>
-    <th>Backend and Database</th>
-    <th>Others</th>
+    <th>FRONTEND</th>
+    <th>BACKEND AND DATABASE</th>
+    <th>OTHERS</th>
 </tr>
 
 <tr><td valign="top" width="33%">
