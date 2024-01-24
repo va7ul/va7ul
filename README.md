@@ -38,15 +38,20 @@
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=va7ul&theme=slateorange&hide_border=true&card_width=815" />
-</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=va7ul&theme=slateorange&show_icons=true&hide_border=true&count_private=true&card_width=480" />
 </a>
-
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=va7ul&theme=slateorange&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=280" />
 </a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=va7ul&theme=slateorange&hide_border=true&card_width=815" />
+</a>
 
 </div>
+
+<br/>
+
+## GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=va7ul)](https://github.com/ryo-ma/github-profile-trophy)
