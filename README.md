@@ -19,7 +19,12 @@ Here are some ideas to get you started:
 
 ## My Skill Set
 
-<table><tr><td valign="top" width="33%">
+<table>
+<tr>
+    <th>Frontend</th>
+    <th>Backend and Database</th>
+    <th>Others</th>
+  </tr><tr><td valign="top" width="33%">
 
 ### Frontend
 
