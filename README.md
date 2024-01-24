@@ -36,7 +36,7 @@
 
 ## GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=va7ul&theme=gitdimmed&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=va7ul&theme=flat&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
