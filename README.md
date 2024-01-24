@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## My Skill Set
 
-<table><tr><td valign="top" width="43%">
+<table><tr><td valign="top" width="35%">
 
 ### Frontend
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="35%">
 
 ### Backend and Database
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <a href="https://render.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="50" height="50" alt="Render" /></a>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="35%">
 
 ### Others
 
