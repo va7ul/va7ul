@@ -25,7 +25,7 @@
 <tr><td valign="top" width="33%">
 
 <div align="center">  
-<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux" height="50" /></a>
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=html,css,js,ts" height="50" /></a>
 <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react,redux" height="50" /></a>
 <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=styledcomponents,materialui,webpack,vite" height="50" /></a> 
 </div>
